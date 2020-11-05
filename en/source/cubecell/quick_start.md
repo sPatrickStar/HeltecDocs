@@ -70,6 +70,7 @@ In the tools menu, there are following options:
   - `None -- Default;`
   - `Freq -- Sending/receiving frequency;`
   - `Freq && DIO -- Sending/receiving frequency, and DIO pin interrupt information.`
+  -**LORAWAM_DEVEUI**--It is a parameter for communication between nodes and gateways, which is equivalent to the ID number of nodes, and each "LORAWAN_" in each server. "Deveui" is unique. Pre storage is required in both the node and the server_ Only nodes can enter the network when they are matched.
 - **COM Port** -- Device's serial port in your computer.
 
 
